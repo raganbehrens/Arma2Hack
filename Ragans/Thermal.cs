@@ -9,7 +9,6 @@ using System.Text.RegularExpressions;
 using System.Windows.Forms;
 using System.Drawing.Drawing2D;
 using System.Diagnostics;
-// Fuck farts
 namespace Ragans
 {
     class Thermal
